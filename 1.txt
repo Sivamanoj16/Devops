@@ -1,1 +1,5 @@
 Hi i want to commit my first line of code 1.txt
+
+#Second Commit 
+Second commit of 1.txt
+
